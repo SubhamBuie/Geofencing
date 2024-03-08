@@ -1,0 +1,6 @@
+{
+  "PORT": 5000,
+  "JWT_SECRET": "any-long-jwt-random-string",
+  "DB_CONNECTION_STRING": "mongodb://127.0.0.1:27017/webingo",
+  "GOOGLE_API_KEY": "AIzaSyCRUgv0CLBjybNlaNRDJpSFbzen8YIUi8w"
+}
